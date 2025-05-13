@@ -1,6 +1,4 @@
----
-#Oumarghad Abdelaziz's Portfolio
----
+# Oumarghad Abdelaziz's Portfolio
 
 **PhD Candidate in Actuarial Mathematics**  
 Specializing in applied mathematics, statistical modeling, and machine learning for financial and insurance applications.
