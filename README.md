@@ -1,52 +1,30 @@
-# Oumarghad Abdelaziz's Portfolio
+# Oumarghad Abdelaziz's Quantitative Portfolio
 
-**PhD Candidate in Actuarial Mathematics**  
-Specializing in applied mathematics, statistical modeling, and machine learning for financial and insurance applications.
-
-## About Me
-
-I am currently pursuing a doctoral degree in Actuarial Mathematics at INSEA (Rabat), with research focused on ruin measures and probabilistic dependence structures in risk models. My academic journey bridges mathematics, data science, and finance, and I am particularly interested in leveraging stochastic processes and machine learning to address real-world problems in insurance, risk management, and quantitative finance.
-
-My background includes:
-- Modeling and simulating stochastic systems (SDEs, Markov chains, Lévy processes)
-- Financial modeling (option pricing, asset-liability management, GARCH models)
-- Developing predictive algorithms using Python, R, and MATLAB
-- Creating academic and technical content using LaTeX
-
-## Projects
-
-- **Cramér-Lundberg Ruin Model Simulation**  
-  Simulated the surplus of an insurance portfolio under random claim arrivals. Estimated the probability of ruin using Monte Carlo techniques.
-
-- **European Option Pricing (Black-Scholes, Monte Carlo, Binomial Tree)**  
-  Implemented and compared several pricing models for European options. Simulated under the risk-neutral measure to evaluate model robustness.
-
-- **Stock Volatility Forecasting with GARCH**  
-  Forecasted volatility for stocks (DIS, SPY) using time-series data and GARCH models. Identified volatility clusters and trends.
-
-- **Sarcasm Detection NLP Model**  
-  Built a text classification model using TF-IDF and Naive Bayes to detect sarcasm in text data.
-
-- **Mathematical Content Development**  
-  Authored and formatted advanced mathematical material in LaTeX for academic and teaching purposes.
-
-## Skills
-
-- **Mathematics & Finance**: Actuarial modeling, stochastic calculus, financial derivatives, econometrics  
-- **Programming**: Python, R, SQL, VBA/Excel, MATLAB, Java, C  
-- **Machine Learning**: Supervised learning, deep learning, neural networks  
-- **Tools**: LaTeX, yfinance, arch, pandas, scikit-learn, SAS
-
-## Certifications
-
-- [Machine Learning – Coursera (2023)](https://coursera.org/share/6f520b1682885b0c9009fa47f36ec2e9)  
-- [Game Theory – Coursera (2024)](https://coursera.org/share/8e8038957bc9ed0741f7e53a3ac10e02)  
-- [Introduction to Statistics – Coursera (2023)](https://coursera.org/share/ef8f00353ff543523d4b873fefe31a38)
-
-## Contact
-
-- **Email**: abdeloumarghad@gmail.com  
-- **LinkedIn**: [Oumarghad Abdelaziz](https://www.linkedin.com/in/oumarghad-abdelaziz-8a37a6203/)
+🎓 **Master 2 – Statistique du Risque et Actuariat, Université Paris Nanterre**  
+📍 Paris, France | 📧 abdeloumarghad@gmail.com | [LinkedIn](https://linkedin.com/in/aziz483) | [GitHub](https://github.com/aziz483)
 
 ---
 
+## About Me
+
+I am a graduate student specializing in **quantitative finance, stochastic modeling, and actuarial science**, with a strong mathematical background and hands-on experience in **Python** and **R** for financial and insurance applications.  
+My academic and research journey spans from **stochastic differential equations** and **ruin theory** to **volatility modeling**, **Monte Carlo simulation**, and **machine learning** for risk and pricing models.
+
+Currently enrolled in the **Master ISEFAR – Statistique du Risque et Actuariat** at Université Paris Nanterre, I aim to apply advanced statistical and computational methods to problems in **financial modeling**, **asset pricing**, and **risk management**.
+
+---
+
+## Research & Technical Focus
+
+- **Stochastic Modeling:** Itô calculus, SDEs, martingales, Monte Carlo simulation  
+- **Quantitative Finance:** Option pricing (Black-Scholes, Binomial, Monte Carlo), GARCH volatility, interest rate models  
+- **Actuarial Science:** Life & non-life insurance, solvency, reinsurance, ruin theory  
+- **Data Science & ML:** Regression, clustering, time series, scikit-learn, TensorFlow  
+- **Numerical Analysis:** Finite difference & PINNs methods for PDEs  
+- **Programming:** Python, R, MATLAB, VBA, SAS, Git  
+
+---
+
+## Objective
+
+I am seeking opportunities in **quantitative research**, **financial engineering**, or **data-driven risk modeling**, where I can leverage my expertise in **stochastic modeling** and **machine learning** to build models that drive strategic and data-informed financial decisions.
